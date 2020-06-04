@@ -1,0 +1,16 @@
+/node_modules
+/public/backups
+/public/storage
+/public/img_perfil
+/public/img_category
+/public/img_producto
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+.env
