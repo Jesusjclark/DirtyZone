@@ -41,7 +41,7 @@
                   </a>
                 </div>
                 <br>
-                <img src="/img/lrojletter.png" style="
+                <img src="/img/lialetter.png" style="
                     width: 200px;
                     height: 200px;"
                 >
