@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>@DirtyZone  RojitaLatinaHOT</title>
+        <title>@DirtyZone  LiaDelicius</title>
         <!-- scripts -->
         <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
         <script type="text/javascript" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
@@ -18,8 +18,8 @@
         <style type="text/css">
               .avatar {
               vertical-align: middle;
-              width: 150px;
-              height: 150px;
+              width: 120px;
+              height: 120px;
               border-radius: 50%;
             }
         </style> 
@@ -41,33 +41,42 @@
                   </a>
                 </div>
                 <br>
-                <h1 style="font-family: 'Nunito', sans-serif, bold; height:100px;align-content: center;font-size: 50px; ">RojitaLatinaHOT: </h1>
+                <img src="/img/rojitaletter.png" style="
+                    width: 200px;
+                    height: 200px;"
+                >
+                <br>
+                 <img src="/img/rojita.jpeg"style=" 
+                      width: 250px;
+                      height: 300px;"
+                  >
+                  <br>
+
+               
                 <box>
-                  <body> 
-                <h2 style="font-family: 'Nunito', sans-serif, bold; height:80px;align-content: center;font-size: 20px; ">Redes: </h2>
+                  <body> <br>
+                    <h2 style="font-family: 'Nunito', sans-serif, bold; height:80px;align-content: center;font-size: 50px; ">Follow me: </h2>
                     <div class="links">
-                     
-                     <a href="/models/liadelicius" style="padding-left: 50px"> 
-                      <img src="/img/liadelicius.jpeg" alt="Avatar" class="avatar" style=" padding: 24px;">
-                     </a>
-                      <a href="/models/rojitaLatina" style="padding-left: 40px">
-                          <img src="/img/rojita.jpeg" alt="Avatar" class="avatar" style=" padding: 24px;">
-                     </a>
+                       <a href="https://twitter.com/rojitalatinahot" style="padding-left: 50px"> 
+                        <img src="/img/twitter.png" alt="Avatar" class="avatar" style=" padding: 24px;">
+                       </a>
+                        <a href="http://onlyfans.com/rojitalatinahot" style="padding-left: 10px">
+                            <img src="/img/onlyfans.png" alt="Avatar" class="avatar" style=" padding: 24px;">
+                       </a>
+                        <a href="http://onlyfans.com/rojitalatinahot" style="padding-left: 50px"> 
+                          <img src="/img/snapchat.png" alt="Avatar" class="avatar" style=" padding: 24px;">
+                        </a><br>
 
-                     <br>
-                      <a href="/models/liadelicius" style="padding-left: 50px">
-                        Lia Delicius
-                      </a>
-                      <a href="/models/rojitaLatina" style="padding-left: 40px">  
-                        RojitaLatinaHot
-                      </a>
-                      <br>
-                      <br>
 
-                      <h2 style="font-family: 'Nunito', sans-serif, bold; height:80px;align-content: center;font-size: 40px; ">Pagos y Donaciones: </h2>
-                  </div>
+                        <h2 style="font-family: 'Nunito', sans-serif, bold; height:80px;align-content: center;font-size: 40px; ">Paypal: </h2>
+                          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                            <input type="hidden" name="cmd" value="_s-xclick" />
+                            <input type="hidden" name="hosted_button_id" value="ZFL4DRZTP9RQE" />
+                            <input type="image" src="http://i.imgur.com/NFYQRix.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" class="avatar" />
+                            <img alt="" border="0" src="https://www.paypal.com/en_PE/i/scr/pixel.gif" width="1" height="1" />
+                          </form>
+                    </div>
                   </body>
-
             </div>
         </div>
     </body>

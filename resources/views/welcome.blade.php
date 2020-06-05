@@ -34,45 +34,65 @@
     </head>
     <body>
         <div class="flex-center position-ref full-height">
-            <div class="content">
-                <div class="title m-b-md">
+        <div class="content">
+          <div class="col">
+            <div class="title m-b-md">
                   <a href="/">
                     <img src="/img/dirtyi.jpg">
                   </a>
                 </div>
+                
                 <br>
                 <h1 style="font-family: 'Nunito', sans-serif, bold; height:100px;align-content: center;font-size: 70px;">Top Models: </h1>
-                <box>
-                  <body> 
                     <div class="links">
-                     <a href="/models/liadelicius" style="padding-left: 50px"> 
-                      <img src="/img/liadelicius.jpeg" alt="Avatar" class="avatar" style=" padding: 24px;">
-                     </a>
-                      <a href="/models/rojitaLatina" style="padding-left: 40px">
-                          <img src="/img/rojita.jpeg" alt="Avatar" class="avatar" style=" padding: 20px;">
-                     </a>
+                       <a href="/models/liadelicius" style="padding-left: 50px"> 
+                        <img src="/img/liadelicius.jpeg" alt="Avatar" class="avatar" style=" padding: 24px;">
+                       </a>
+                        <a href="/models/rojitaLatina" style="padding-left: 40px">
+                            <img src="/img/rojita.jpeg" alt="Avatar" class="avatar" style=" padding: 20px;">
+                       </a>
 
-                     <br>
-                      <a href="/models/liadelicius" style="padding-left: 50px">
-                        Lia Delicius
-                      </a>
-                      <a href="/models/rojitaLatina" style="padding-left: 40px">  
-                        RojitaLatinaHot
-                      </a>
-                      <br>
-                      <br>
+                       <br>
+                        <a href="/models/liadelicius" style="padding-left: 50px">
+                          Lia Delicius
+                        </a>
+                        <a href="/models/rojitaLatina" style="padding-left: 40px">  
+                          RojitaLatinaHot
+                        </a>
+                        <br>
+                        <br>
+                        <a href="http://onlyfans.com/liadelicius" style="text-align-last: center">More</a> 
 
                     </div>
-                    
-                  </body>
-                </body>
+
+                    <div class="links"><br><br>
+                <h1 style="font-family: 'Nunito', sans-serif, bold; height:100px;align-content: center;font-size: 30px;">Follow us: </h1>
+
+                       <a href="http://twitter.com/liadelicius" style="padding-left: 50px"> 
+                        <img src="/img/twitter.png" alt="Avatar" class="avatar" style=" padding: 24px;">
+                       </a>
+                        <a href="http://onlyfans.com/liadelicius" style="padding-left: 50px"> 
+                          <img src="/img/snapchat.png" alt="Avatar" class="avatar" style=" padding: 24px;">
+                        </a><br>
+
+                        <h2 style="font-family: 'Nunito', sans-serif, bold; height:80px;align-content: center;font-size: 40px; ">Paypal: </h2>
+                          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                            <input type="hidden" name="cmd" value="_s-xclick" />
+                            <input type="hidden" name="hosted_button_id" value="ZFL4DRZTP9RQE" />
+                            <input type="image" src="http://i.imgur.com/NFYQRix.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" class="avatar" />
+                            <img alt="" border="0" src="https://www.paypal.com/en_PE/i/scr/pixel.gif" width="1" height="1" />
+                          </form>
+                    </div>
             </div>
+            
+              <h3 style="text-align: center;">
+      
+        @copyright DirtyZone Entertainment 2020 || All rigths reserved.
+      </h3>
+        </div>
         </div>
     </body>
     <footer>
-      <h3 style="text-align: center;">
-       
-        @copyright DirtyZone Entertainment 2020 || All rigths reserved.
-      </h3>
+
     </footer>
 </html>
