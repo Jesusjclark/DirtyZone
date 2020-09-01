@@ -11,14 +11,20 @@ class DataDTController extends Controller
 		return view('welcome');
 	}
 	public function goModel($model){
-		#dd($model);
-		if ($model == 'rojitaLatina') {
+		switch ($model) {
+			case 'rojitaLatina':
 			return view('rojita');
-		}elseif($model == 'liadelicius'){
+				break;
+			case 'liadelicius':
 			return view('liadelicius');
-		}else {
+				break;
+			case 'distribuidorbarquisimeto':
+			return view('distribuidorbarquisimeto');
+				break;
+			default:
 			return view('welcome');
-			
+				break;
 		}
+
 	}
 }

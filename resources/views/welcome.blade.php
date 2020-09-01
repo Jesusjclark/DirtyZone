@@ -35,7 +35,7 @@
     <body>
         <div class="flex-center position-ref full-height">
         <div class="content">
-          <div class="col">
+          <div class="col ">
             <div class="title m-b-md">
                   <a href="/">
                     <img src="/img/dirtyi.jpg">
@@ -56,7 +56,7 @@
                         <a href="/models/liadelicius" style="padding-left: 50px">
                           Lia Delicius
                         </a>
-                        <a href="/models/rojitaLatina" style="padding-left: 40px">  
+                        <a href="/models/distribuidorbarquisimeto" style="padding-left: 40px">  
                           RojitaLatinaHot
                         </a>
                         <br>
@@ -84,7 +84,7 @@
                           </form>
                     </div>
             </div>
-            
+
               <h3 style="text-align: center;">
       
         @copyright DirtyZone Entertainment 2020 || All rigths reserved.
