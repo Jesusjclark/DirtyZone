@@ -75,18 +75,19 @@
             <div class="carousel-inner">
 
               <div class="item active">
-                <img src="/img/promo.png" alt="Los Angeles" style="width:100%;">
+                <a href="http://wa.me/message/AZDGKXD6XOOVA1"> <img src="/img/promo.png" alt="Los Angeles" style="width:100%;"></a>
                 <div class="carousel-caption">
-                  <h3>Pollo</h3>
-                  <p>El mas fresco</p>
+                  <h3></h3>
+                  <p></p>
                 </div>
               </div>
 
               <div class="item">
-                <img src="/img/promo2.png" alt="Los Angeles" style="width:100%;">
+
+               <a href="http://wa.me/message/AZDGKXD6XOOVA1"> <img src="/img/promo2.png" alt="Los Angeles" style="width:100%;"></a>
                 <div class="carousel-caption">
-                  <h3>Mortadela</h3>
-                  <p>La mejor del mercado</p>
+                  <h3></h3>
+                  <p></p>
                 </div>
               </div>
             </div>
@@ -109,7 +110,7 @@
                    <a href="https://twitter.com/MayoristaBqto_" style=""> 
                     <img src="/img/twitter.png" alt="Avatar" class="avatar" style=" padding: 20px;">
                    </a>
-                    <a href="wa.me/message/AZDGKXD6XOOVA1" style="padding-left: 10px">
+                    <a href="http://wa.me/message/AZDGKXD6XOOVA1" style="padding-left: 10px">
                         <img src="/img/whatsapp.png" alt="Avatar" class="avatar" style=" padding: 20px;">
                    </a><
                     <a href="http://facebook.com/DistribuidorBarquisimeto" style="padding-left: 20px"> 
