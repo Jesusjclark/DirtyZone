@@ -12,6 +12,17 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177087811-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177087811-1');
+</script>
+
+
           <script type="text/javascript" >
 
           $(document).ready(function() {
@@ -91,26 +102,28 @@
             </a>
           </div>
                
-                <box>
-                  <body> <br>
-                    <h2 style="font-family: 'Nunito', sans-serif, bold; height:80px;align-content: center;font-size: 30px; ">Sigue nuestras redes: </h2>
-                    <div class="links">
-                       <a href="https://twitter.com/MayoristaBqto_" style=""> 
-                        <img src="/img/twitter.png" alt="Avatar" class="avatar" style=" padding: 20px;">
-                       </a>
-                        <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwa.me%2Fmessage%2FAZDGKXD6XOOVA1%3Ffbclid%3DIwAR0PAjK3cNxkT5ReeyJB_MwrWYOsrW9NxJo4sAopbrEeV-7yMft5pGk-K0o&h=AT30rP5CeixDPKi4ZrND_RN_XvJEJaoJjA6jvoq65ExWsmWOlwO3Q6baZVkj1IE0d4-AWO3geBSEvIThDkWeLzxPRQSSbXA_9PEn0AecJ9oBx-pVdNb2u22Q7crw&__tn__=-UK*F&c[0]=AT12uk5_r0B7zmPIrho84q5UOpNs8vlaWYm3cz-_yt4wCSx3WOhX3I1Ju6lbt6xSD3G8JIb6nIBfkSrRyIVgotoHPPLrgWgDU0CPVtta-Zng1EqI-UcS_5UfLqY0JDIOPVJf7UXFNNsmIhSi8IK8ZewcjvwhT7Z_RvfTxsJZOlDBr86dL6WoMBbh7Q" style="padding-left: 10px">
-                            <img src="/img/whatsapp.png" alt="Avatar" class="avatar" style=" padding: 20px;">
-                       </a><
-                        <a href="http://facebook.com/DistribuidorBarquisimeto" style="padding-left: 20px"> 
-                          <img src="/img/facebook.png" alt="Avatar" class="avatar" style=" padding: 20px;">
-                        </a>
-                          <a href="http://instagram.com/DistribuidorBarquisimeto" style="padding-left: 20px"> 
-                          <img src="/img/insta.png" alt="Avatar" class="avatar" style=" padding: 20px;">
-                        </a><br>
+            <box>
+              <body> <br>
+                <h2 style="font-family: 'Nunito', sans-serif, bold; height:80px;align-content: center;font-size: 30px; ">Sigue nuestras redes: </h2>
+                <div class="links">
+                   <a href="https://twitter.com/MayoristaBqto_" style=""> 
+                    <img src="/img/twitter.png" alt="Avatar" class="avatar" style=" padding: 20px;">
+                   </a>
+                    <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwa.me%2Fmessage%2FAZDGKXD6XOOVA1%3Ffbclid%3DIwAR0PAjK3cNxkT5ReeyJB_MwrWYOsrW9NxJo4sAopbrEeV-7yMft5pGk-K0o&h=AT30rP5CeixDPKi4ZrND_RN_XvJEJaoJjA6jvoq65ExWsmWOlwO3Q6baZVkj1IE0d4-AWO3geBSEvIThDkWeLzxPRQSSbXA_9PEn0AecJ9oBx-pVdNb2u22Q7crw&__tn__=-UK*F&c[0]=AT12uk5_r0B7zmPIrho84q5UOpNs8vlaWYm3cz-_yt4wCSx3WOhX3I1Ju6lbt6xSD3G8JIb6nIBfkSrRyIVgotoHPPLrgWgDU0CPVtta-Zng1EqI-UcS_5UfLqY0JDIOPVJf7UXFNNsmIhSi8IK8ZewcjvwhT7Z_RvfTxsJZOlDBr86dL6WoMBbh7Q" style="padding-left: 10px">
+                        <img src="/img/whatsapp.png" alt="Avatar" class="avatar" style=" padding: 20px;">
+                   </a><
+                    <a href="http://facebook.com/DistribuidorBarquisimeto" style="padding-left: 20px"> 
+                      <img src="/img/facebook.png" alt="Avatar" class="avatar" style=" padding: 20px;">
+                    </a>
+                      <a href="http://instagram.com/DistribuidorBarquisimeto" style="padding-left: 20px"> 
+                      <img src="/img/insta.png" alt="Avatar" class="avatar" style=" padding: 20px;">
+                    </a><br>
 
-                    </div>
-                  </body>
+                </div>
+              </body>
+
             </div>
+
         </div>
     </body>
 </html>
